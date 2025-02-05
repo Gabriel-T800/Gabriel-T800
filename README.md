@@ -11,7 +11,7 @@ Going now to the GitHub ideas for my README:
 - 🤔 I’m looking for help especially with the Linux OS at the moment.
 - 📫 How to reach me: 00141247@ufrgs.br or gabriel.otorres@inf.ufrgs.br
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I love mitollogies (Greek, Nordic and Egyptian for example), curiosities and believe in the hidden potencial of the human being. All of this interests match with some of my favorite books, movies, series and videogames, listed under:
+- ⚡ Fun fact: I love mythologies (Greek, Nordic and Egyptian for example) and curiosities and believe in the hidden potencial of the human being. All of this interests match with some of my favorite books, movies, series and videogames, listed under:
   - God of War (all of them);
   - Rick Riordan's books;
   - Dune Saga (the books especially);
