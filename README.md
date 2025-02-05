@@ -2,7 +2,7 @@
 
 At the moment, I'm mostly using the github ideas for my README, but as soon as I get more ideas to present myself, I will add my changes to here.
 
-Check my projects in the repository. They are mostly academic and personal projects at the moment, but soon will be more professional projects as well. I just have to get a job/internship that challenges me in that way.
+Check my projects in my repositories. They are mostly academic and personal projects at the moment, but soon will be more professional projects as well. I just have to get a job/internship that challenges me to create some projects of my own.
 
 Going now to the GitHub ideas for my README:
 - 🔭 I'm currently working on Dell Technologies (BCC site, on Eldorado do Sul, Brazil) as a Sales Channel Intern, but I intend to migrate for a more!
